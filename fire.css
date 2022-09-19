@@ -146,7 +146,27 @@ audio{
     width: 100vw;
     position: fixed;
   }
+  canvas{
+	  height: 100vh;
+    width: 100vw;
+    position: fixed;
+  }
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (max-device-height: 480px) and (orientation:portrait) {
+    /* Your adjusted CSS goes here */
+	html {
+    height: 100vh;
+    width: 100vw;
+    position: fixed;
+  }
+  canvas{
+	  height: 100vh;
+    width: 100vw;
+    position: fixed;
+  }
+}
+
 
 
 /*<style>
