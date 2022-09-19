@@ -178,12 +178,12 @@ audio{
  #intro{
 	 width:100vw;
 	 height:40vh;
-	 position:fixed;
+	/* position:fixed;
 	 top:10px;
 	 left:auto;
 	 font-size:40px;
 	 align: center;
-	 margin:auto auto;
+	 margin:auto auto;*/
   }
 	div h1{
 		text-align:center;
