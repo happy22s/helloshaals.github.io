@@ -140,7 +140,7 @@ audio{
   to {background: linear-gradient(60deg,rgb(130,27,155),rgb(250,136,150), rgb(10,220,150));}
 }
 		
-/*@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   html {
     height: 100vh;
     width: 100vw;
@@ -151,7 +151,17 @@ audio{
     width: 100vw;
     position: fixed;
   }
-}*/
+ #intro{
+	 width:100vw;
+	 height:40vh;
+	 position:fixed;
+	 top:10px;
+	 left:auto;
+	 font-size:40px;
+	 align: center;
+	 margin:auto auto;
+	}
+}
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) and (max-device-height: 480px) and (orientation:portrait) {
     /* Your adjusted CSS goes here */
