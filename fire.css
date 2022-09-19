@@ -184,6 +184,11 @@ audio{
 	 font-size:40px;
 	 align: center;
 	 margin:auto auto;
+  }
+	div h1{
+		text-align:center;
+		top:10px;
+	 left:auto;
 	}
 }
 
