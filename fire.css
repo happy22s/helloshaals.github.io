@@ -168,13 +168,13 @@ audio{
  #intro{
 	 width:100vw;
 	 height:40vh;
-	 position:absolute;
+	 position:fixed;
 	 top:10px;
 	 left:auto;
 	 font-size:40px;
 	 align: center;
 	 margin:auto auto;
-	
+	}
 }
 
 
