@@ -175,8 +175,8 @@ audio{
     position: fixed;
   }
  #intro{
-	 width:100vw;
-	 height:40vh;
+	 width:75%;
+	 height:35%;
 	position: absolute;
    top: 7.5rem;
    /*right:10rem;
